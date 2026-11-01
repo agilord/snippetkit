@@ -1,0 +1,11 @@
+export 'src/extract/blocks.dart' show BlockType, Block;
+export 'src/extract/json.dart' show repairJson;
+export 'src/extract/template.dart' show Field;
+export 'src/quote/coverage.dart';
+export 'src/quote/match.dart';
+export 'src/text/boundaries.dart' show Boundary;
+export 'src/text/chunking.dart' show Chunk;
+export 'src/text/diff.dart';
+export 'src/text/range.dart';
+export 'src/text/unicode.dart' show normalizeUnicode;
+export 'src/source.dart' show Source;

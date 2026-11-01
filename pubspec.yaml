@@ -1,0 +1,11 @@
+name: snippetkit
+description: Text tooling for working with LLM output (extract, locate quotes, split/chunk).
+version: 0.1.0
+repository: https://github.com/agilord/snippetkit
+
+environment:
+  sdk: ^3.13.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.32.0
